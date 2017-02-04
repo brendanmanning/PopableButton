@@ -6,4 +6,4 @@ Makes a button "pop" to a slightly bigger size to give emphasis when held or pre
 2. Set "Class" to "PopableButton" in the Identity Inspector
 
 # License
-MIT License (See License.md)
+MIT License (See LICENSE.md)
