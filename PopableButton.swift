@@ -56,3 +56,9 @@ class PopableButton: UIButton {
         });
     }
 }
+
+extension CGFloat {
+    internal func abs() -> CGFloat {
+        return ((self >= 0) ? self : (-1 * self))
+    }
+}
